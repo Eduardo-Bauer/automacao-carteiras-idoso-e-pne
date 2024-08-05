@@ -1,1 +1,1 @@
-Olá, esse projeto feito para possibilitar a criação das carteiras de idoso e pne da prefeitura de Nova Petrópolis, adicionando a nova carteirinha no dataframe de controle e criando o documento.
+Hello, my name is Eduardo Bauer and I am an intern at the city hall in my city. During the days I realized that creating elderly and PNE credentials was very costly in terms of time and manual, so I decided to do this project, where I already insert the new credential into the dataframe, excel, and already generates your own credential in word.
